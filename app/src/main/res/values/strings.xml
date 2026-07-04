@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magnet Downloader</string>
+    <string name="add_download">添加下载</string>
+    <string name="magnet_link">Magnet 链接</string>
+    <string name="paste_link">粘贴链接</string>
+    <string name="start_download">开始下载</string>
+    <string name="cancel">取消</string>
+    <string name="downloading">下载中</string>
+    <string name="completed">已完成</string>
+    <string name="paused">已暂停</string>
+    <string name="error">错误</string>
+    <string name="waiting">等待中</string>
+    <string name="empty_list">暂无下载任务</string>
+    <string name="invalid_magnet">无效的 Magnet 链接</string>
+    <string name="delete_task">删除任务</string>
+    <string name="pause">暂停</string>
+    <string name="resume">继续</string>
+    <string name="settings">设置</string>
+    <string name="notification_channel_name">下载通知</string>
+    <string name="notification_channel_desc">显示下载进度和状态</string>
+    <string name="download_complete">下载完成</string>
+    <string name="download_failed">下载失败</string>
+    <string name="storage_permission_required">需要存储权限来保存下载的文件</string>
+    <string name="task_exists">任务已存在</string>
+</resources>
